@@ -1,6 +1,6 @@
 {
   "name": "plenty-themes",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "plenty of themes in css and json format",
   "files": [
     "*.css",
