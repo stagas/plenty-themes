@@ -1,0 +1,23 @@
+{
+  "name": "plenty-themes",
+  "version": "1.0.0",
+  "description": "plenty of themes in css and json format",
+  "files": [
+    "*.css",
+    "*.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://git@github.com:stagas/plenty-themes.git"
+  },
+  "scripts": {
+    "test": "echo ok"
+  },
+  "keywords": [
+    "themes",
+    "css",
+    "json"
+  ],
+  "author": "stagas",
+  "license": "MIT"
+}
