@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "plenty of themes in css and json format",
   "files": [
-    "*.css",
-    "*.json"
+    "themes/*.css",
+    "themes/*.json"
   ],
   "exports": {
     "./*": "./themes/*"
@@ -21,7 +21,10 @@
     "url": "git+https://git@github.com:stagas/plenty-themes.git"
   },
   "scripts": {
-    "test": "echo ok"
+    "test": "echo ok",
+    "docs": "echo no docs",
+    "prepush": "echo ok",
+    "prepack": "echo ok"
   },
   "keywords": [
     "themes",
